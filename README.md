@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about sql
 -->
 
+### Languages and Tools:
+![My Tech Stack](https://skillicons.dev/icons?i=java,mysql,php,python,html,css,javascript,bootstrap,eclipse,visualstudio,vscode,csharp)
