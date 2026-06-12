@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-![My Tech Stack](https://skillicons.dev/icons?i=java,mysql,php,python,html,css,javascript,bootstrap,eclipse,visualstudio,vscode,csharp)
+![My Tech Stack](https://skillicons.dev/icons?i=csharp,java,php,python,mysql,html,css,javascript,bootstrap,git,github,vscode,eclipse,visualstudio)
